@@ -1,0 +1,2 @@
+JasonEtLesArgonautes
+Javascript (React et Node) pour une application listant les membres d'une équipe ajoutés par un formulaire et stockés dans une base de données MySQL. Pour installer les packages node_modules : npm install
